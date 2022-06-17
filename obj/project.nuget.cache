@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "vNCvQodC/zuCbk77UmV+roc89pe9Xr8UYyyVvHjdSZzzxkz86FiEy+8OF0wEkMvwnpBpE5lcBcbbgMF9db+hWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mboniseni\\Documents\\FileDuplicatesFinder\\FileDuplicatesFinder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mboniseni\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mboniseni\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mboniseni\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mboniseni\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mboniseni\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mboniseni\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mboniseni\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
